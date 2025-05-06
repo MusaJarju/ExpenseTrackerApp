@@ -21,4 +21,4 @@ A simple console-based Java application that helps users track their expenses us
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ExpenseTrackerApp.git
+   git clone https://github.com/MusaJarju/ExpenseTrackerApp.git
